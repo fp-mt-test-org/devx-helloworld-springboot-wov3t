@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-wov3t.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-wov3t-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-wov3t-docker-dev-local/devx-helloworld-springboot-wov3t
+    tag: 0.0.1-SNAPSHOT
